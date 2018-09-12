@@ -1,0 +1,10 @@
+#!/media/
+#!/out_vod/
+*.h5
+#media/*.jpg
+#media/*.png
+#media/*.mp4
+#media/*.avi
+*temp
+#out_vod/*.jpg
+#!/media/image.jpg
